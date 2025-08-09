@@ -1,10 +1,3 @@
-Got it ✅ — I’ll rewrite your README so it clearly states:
-
-* **Auth Service** → has its own PostgreSQL DB (**auth-service-db**)
-* **Patient Service** → has its own PostgreSQL DB (**patient-service-db**)
-* **Patient Service** supports **Create, Read, Update, Delete (CRUD)** operations for patient records.
-
-Here’s the updated **polished README.md**:
 
 ````markdown
 # 🏥 Patient Management System - Java Spring Microservices
