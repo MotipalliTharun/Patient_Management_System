@@ -1,0 +1,13 @@
+### Update  request to update existing patient
+PUT http://localhost:4004/api/patients/aaaaaaa6-aaaa-aaaa-aaaa-aaaaaaaaaaaa
+Content-Type: application/json
+
+{
+  "name": "Tharun Motu",
+  "email": "tharun@123.com",
+  "address": "3433 mazur",
+  "birthDate": "1995-09-09"
+}
+
+}
+###

@@ -1,0 +1,13 @@
+### post request to create patient
+POST http://localhost:4004/api/patients
+Content-Type: application/json
+
+{
+  "name": "Tharun Kafka",
+  "email": "kafka8@gmail.com",
+  "address": "3433 mazur",
+  "birthDate": "1995-09-09",
+  "registerDate": "2025-11-28"
+}
+
+###

@@ -1,0 +1,4 @@
+### Delete request to delete patient
+DELETE http://localhost:4004/api/patients/aaaaaaa6-aaaa-aaaa-aaaa-aaaaaaaaaaaa
+Content-Type: application/json
+###
