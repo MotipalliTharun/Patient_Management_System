@@ -1,5 +1,4 @@
 
-````markdown
 # 🏥 Patient Management System - Java Spring Microservices
 
 ## 📌 Overview
@@ -197,3 +196,5 @@ All rights reserved © 2025.
 
 ---
 
+If you want, I can **add a sequence diagram** showing how a request flows through **Auth → Patient → Billing → Analytics** so your README looks even more professional and developer-friendly. That would make it perfect for GitHub.
+```
